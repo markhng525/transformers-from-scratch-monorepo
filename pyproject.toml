@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "<PROJECT_NAME>"
+name = "transformers-from-scratch-monorepo"
 version = "0.1.0"
 description = ""
 authors = ["markhng525 <markhng525@gmail.com>"]
